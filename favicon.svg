@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Dark charcoal circle background -->
+  <circle fill="#1C1C1C" cx="32" cy="32" r="30"/>
+  <!-- Terracotta star accent -->
+  <polygon fill="#8C7B6B" points="32,8 33.5,12 38,12 34.5,15 35.5,19.5 32,17 28.5,19.5 29.5,15 26,12 30.5,12"/>
+  <!-- Cream colored letter K (drawn with paths - no font needed) -->
+  <path fill="#F3F0EB" d="M22 20 L22 48 L28 48 L28 36 L34 48 L41 48 L33 34 L40 20 L33 20 L28 32 L28 20 Z"/>
+</svg>

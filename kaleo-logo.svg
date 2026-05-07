@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 160" width="400" height="160">
+  <style>
+    .brand { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 72px; font-weight: 400; fill: #FFFFFF; letter-spacing: 0.08em; }
+    .tag { font-family: 'Inter', sans-serif; font-size: 11px; font-weight: 300; fill: rgba(255,255,255,0.7); letter-spacing: 0.35em; text-transform: uppercase; }
+    .line { stroke: rgba(255,255,255,0.4); stroke-width: 0.5; }
+    .star { fill: rgba(255,255,255,0.5); }
+  </style>
+  <polygon class="star" points="200,18 202,24 208,24 203,28 205,34 200,30 195,34 197,28 192,24 198,24" transform="scale(0.8) translate(50, -5)"/>
+  <text x="200" y="85" text-anchor="middle" class="brand">Kaleo</text>
+  <line x1="140" y1="100" x2="260" y2="100" class="line"/>
+  <text x="200" y="125" text-anchor="middle" class="tag">The Art of Slow Living</text>
+</svg>
